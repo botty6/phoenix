@@ -44,3 +44,8 @@ uv
 uvloop
 xattr
 yt-dlp
+setuptools>=70.0.0
+oauth2client
+progress
+progressbar2
+httplib2shim
